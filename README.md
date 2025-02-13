@@ -63,7 +63,7 @@ El dashboard muestra información clave sobre los productos en diferentes gráfi
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/rodrigotrejolozano/dashboard-frontend.git
 cd tu-repo/frontend
 ```
 
